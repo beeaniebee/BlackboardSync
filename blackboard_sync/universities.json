@@ -810,6 +810,21 @@
     "api_url": "https://acconline.austincc.edu"
   },
   {
+    "name": "University of South Carolina",
+    "short_name": "USC",
+    "country": "US",
+    "login": {
+      "start_url": "https://blackboard.sc.edu",
+      "target_url": "https://blackboard.sc.edu/ultra/"
+    },
+    "network": {
+      "name": [
+        "SCAROLINA"
+      ]
+    },
+    "api_url": "https://blackboard.sc.edu"
+  },
+  {
     "name": "Fakeboard",
     "short_name": "dev",
     "login": {
